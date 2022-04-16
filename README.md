@@ -2,4 +2,4 @@
 
 ## Итоговая работа после курса HTML&CSS
 
-[Ссылка](https://svetlanadjabarova.github.io/Alina/)
+[Перейти по ссылке](https://svetlanadjabarova.github.io/Alina/)
